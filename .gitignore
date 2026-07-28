@@ -1,0 +1,27 @@
+# Ignore the following files
+*~
+*.[oa]
+*.diff
+*.kate-swp
+*.kdev4
+.kdev_include_paths
+*.kdevelop.pcs
+*.moc
+*.moc.cpp
+*.orig
+*.user
+.*.swp
+.swp.*
+Makefile
+/build*/
+/cmake-build*/
+/.deps/
+CMakeLists.txt.user*
+*.unc-backup*
+.clang-format
+/compile_commands.json
+.clangd
+.idea
+.cache
+__pycache__/
+*.py[cod]
